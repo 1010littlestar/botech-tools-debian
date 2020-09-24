@@ -1,0 +1,13 @@
+#!/bin/bash
+
+rm -rf /bin/btools
+rm -rf /bin/hiddrs
+rm -rf /bin/himc
+rm -rf /bin/himd
+rm -rf /bin/himm.l
+rm -rf /bin/himm
+rm -rf /bin/i2c_read
+rm -rf /bin/i2c_write
+rm -rf /bin/ssp_read
+rm -rf /bin/ssp_write
+rm -rf /bin/temperature

@@ -1,0 +1,13 @@
+#!/bin/bash
+
+ln -sf /opt/bin/btools      /bin/btools
+ln -sf /opt/bin/hiaddrs     /bin/hiddrs
+ln -sf /opt/bin/himc        /bin/himc
+ln -sf /opt/bin/himd        /bin/himd
+ln -sf /opt/bin/himd.l      /bin/himm.l
+ln -sf /opt/bin/himm        /bin/himm
+ln -sf /opt/bin/i2c_read    /bin/i2c_read
+ln -sf /opt/bin/i2c_write   /bin/i2c_write
+ln -sf /opt/bin/ssp_read    /bin/ssp_read
+ln -sf /opt/bin/ssp_write   /bin/ssp_write
+ln -sf /opt/bin/temperature /bin/temperature
